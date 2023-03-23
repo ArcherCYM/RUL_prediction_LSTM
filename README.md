@@ -5,7 +5,7 @@
 
 ### File Information
 1. **"PHM"** is raw data. Data detail information can be obtained in *.
-2. **"Remaining Useful Life Prediction Method for Bearings Based on LSTM with Uncertainty Quantification.pdf"** is the paper i reproduce.
+2. **"Remaining Useful Life Prediction Method for Bearings Based on LSTM with Uncertainty Quantification.pdf"** is the paper I reproduce.
 3. **"lstm_rul.ipynb"** is all the code.
 4. **"data"** is the temporary variables.
 
